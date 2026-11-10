@@ -7,7 +7,11 @@ authors = [
     { name = "Tanav T", email = "tanavt21@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "seaborn>=0.13.2",
+]
 
 [project.scripts]
 ml-proj1 = "ml_proj1:main"
