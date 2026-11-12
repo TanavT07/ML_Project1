@@ -1,0 +1,7 @@
+[2026-11-10 19:24:38,983] 21 root - INFO - Entered the data ingestrion method or componment
+[2026-11-10 19:24:38,984] 24 root - INFO - Read the dataset as dataframe
+[2026-11-10 19:24:38,988] 28 root - INFO - Train test split initiated
+[2026-11-10 19:24:38,991] 32 root - INFO - Ingestion of the datais completed
+[2026-11-10 19:24:38,993] 52 root - INFO - Train and test dataset has been read. Obtaining preprocessing object
+[2026-11-10 19:24:38,993] 36 root - INFO - Numerical and categorical transforamtion is complete
+[2026-11-10 19:24:38,993] 63 root - INFO - Applying preprocessing object on training dataframe and testing dataframe
